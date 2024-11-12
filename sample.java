@@ -6,7 +6,7 @@ public class sample {
         double difference = num1 - num2;
         double product = num1 * num2;
         double quotient = num1 / num2;
-        System.out.println("Addition"+ + sum);
+        System.out.println("Addition:"+ + sum);
         System.out.println("Subtraction: " + difference);
         System.out.println("Multiplication: " + product);
         if (num2 != 0) {
